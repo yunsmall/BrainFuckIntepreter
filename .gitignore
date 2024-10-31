@@ -1,0 +1,6 @@
+.cache
+.vscode
+.idea
+cmake-build-*
+[Bb]uild*
+compile_commands.json
